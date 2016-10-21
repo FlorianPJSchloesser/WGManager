@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1044086372196",
+    "firebase_url": "https://wg-manager-38aeb.firebaseio.com",
+    "project_id": "wg-manager-38aeb",
+    "storage_bucket": "wg-manager-38aeb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044086372196:android:b3db7f749ffc5526",
+        "android_client_info": {
+          "package_name": "floschlo.wgmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044086372196-1umuv96m3tqs2govsfhld8anhplfcpub.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDONtIDfikt20Nb_6b7FRaU9RGHB3KD7OI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
